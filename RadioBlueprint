@@ -1,4 +1,4 @@
-lueprint:
+Blueprint:
   name: Stream web radio to media player
   description: Stream web radio from Home Assistant to Sonos media player.
   domain: automation
